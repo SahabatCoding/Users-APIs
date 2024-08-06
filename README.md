@@ -1,40 +1,6 @@
 # Hi, I'm Chairul! 👋
 
-Hi, I'm Chairul, this api project was created to create a travel website.
-why did I make this? because I was trusted by the team to be the backend at one of the boot camps, I have completed the city, destination and hotel api, not only that, I created users and bookings for transactions when the user wants to book a hotel
-
-## API Reference
-
-```http
-  https://backend-travelkuy.vercel.app
-```
-
-#### Get all destination in aceh
-
-```http
-  GET /kota/aceh
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get all the hotels in the Aceh destination
-
-Get the destination ID after you get the Aceh destination api. the one above
-
-```http
-  GET /kota/aceh/destination/${id}
-```
-
-
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-
-
+Hi, I'm Chairul, this api project was created to create a user APIs.
 
 ## Announcement
 

@@ -11,9 +11,9 @@ Request Body :
 
 ```json
 {
-  "first_name" : "Eko",
-  "last_name" : "Khannedy",
-  "email" : "eko@pzn.com",
+  "first_name" : "chairu",
+  "last_name" : "yusuf",
+  "email" : "yusuf@gmail.com",
   "phone" : "32423423434"
 }
 ```
@@ -24,10 +24,10 @@ Response Body Success :
 {
   "data" : {
     "id" : 1,
-    "first_name" : "Eko",
-    "last_name" : "Khannedy",
-    "email" : "eko@pzn.com",
-    "phone" : "32423423434"
+     "first_name" : "chairu",
+     "last_name" : "yusuf",
+     "email" : "yusuf@gmail.com",
+     "phone" : "32423423434"
   }
 }
 ```
@@ -51,10 +51,10 @@ Request Body :
 
 ```json
 {
-  "first_name" : "Eko",
-  "last_name" : "Khannedy",
-  "email" : "eko@pzn.com",
-  "phone" : "32423423434"
+    "first_name" : "chairu",
+    "last_name" : "yusuf",
+    "email" : "yusuf@gmail.com",
+    "phone" : "32423423434"
 }
 ```
 
@@ -64,10 +64,10 @@ Response Body Success :
 {
   "data" : {
     "id" : 1,
-    "first_name" : "Eko",
-    "last_name" : "Khannedy",
-    "email" : "eko@pzn.com",
-    "phone" : "32423423434"
+     "first_name" : "chairu",
+     "last_name" : "yusuf",
+     "email" : "yusuf@gmail.com",
+     "phone" : "32423423434"
   }
 }
 ```
@@ -93,9 +93,9 @@ Response Body Success :
 {
   "data" : {
     "id" : 1,
-    "first_name" : "Eko",
-    "last_name" : "Khannedy",
-    "email" : "eko@pzn.com",
+    "first_name" : "chairu",
+    "last_name" : "yusuf",
+    "email" : "yusuf@gmail.com",
     "phone" : "32423423434"
   }
 }
@@ -130,17 +130,17 @@ Response Body Success :
   "data" : [
     {
       "id" : 1,
-      "first_name" : "Eko",
-      "last_name" : "Khannedy",
-      "email" : "eko@pzn.com",
-      "phone" : "32423423434"
+       "first_name" : "chairu",
+       "last_name" : "yusuf",
+       "email" : "yusuf@gmail.com",
+       "phone" : "32423423434"
     },
     {
       "id" : 2,
-      "first_name" : "Eko",
-      "last_name" : "Khannedy",
-      "email" : "eko@pzn.com",
-      "phone" : "32423423434"
+       "first_name" : "chairu",
+       "last_name" : "yusuf",
+       "email" : "yusuf@gmail.com",
+       "phone" : "32423423434"
     }
   ],
   "paging" : {
